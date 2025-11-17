@@ -2,6 +2,7 @@ import { Toaster } from "@/components/ui/toaster";
 import { Toaster as Sonner } from "@/components/ui/sonner";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { PasswordGate } from "@/components/PasswordGate";
 import Index from "./pages/Index";
 import About from "./pages/About";
 import Blog from "./pages/blog/BlogIndex";
@@ -53,66 +54,68 @@ import TermsOfServices from "./pages/legal/TermsOfServices";
 import Licenses from "./pages/legal/Licenses";
 
 const App = () => (
-  <TooltipProvider>
-    <Toaster />
-    <Sonner />
-    <BrowserRouter>
-      <ScrollToTop />
-      <Routes>
-        <Route path="/" element={<Index />} />
-        <Route path="/company" element={<About />} />
-        <Route path="/blog" element={<Blog />} />
-        <Route path="/blog/:slug" element={<BlogPost />} />
-        <Route path="/customers" element={<Customers />} />
-        <Route path="/customers/:slug" element={<CustomerStoryPage />} />
-        <Route path="/customer-stories/:slug" element={<CustomerStoryPage />} />
-        <Route path="/resources" element={<Resources />} />
-        <Route path="/content-library" element={<ContentLibraryPage />} />
-        <Route path="/events-webinars" element={<EventsWebinarsPage />} />
-        <Route path="/offerings" element={<Offerings />} />
-        <Route path="/offerings/professional-support-packages" element={<ProfessionalSupportPackages />} />
-        <Route path="/offerings/software-as-a-service" element={<SoftwareAsAService />} />
-        <Route path="/offerings/filigran-academy" element={<FiligranAcademy />} />
-        <Route path="/offerings/opengrc-enterprise-edition" element={<OpenGRCEnterpriseEdition />} />
-        <Route path="/offerings/dedicated-agentic-platform" element={<DedicatedAgenticPlatform />} />
-        <Route path="/partners" element={<Partners />} />
-        <Route path="/partners/mssp-partners" element={<MsspPartners />} />
-        <Route path="/partners/technology-alliances" element={<TechnologyAlliances />} />
-        <Route path="/partners/solutions-providers" element={<SolutionsProviders />} />
-        <Route path="/partners/marketplaces" element={<Marketplaces />} />
-        <Route path="/become-a-partner" element={<BecomeAPartner />} />
-        <Route path="/platforms/opencti" element={<OpenCTI />} />
-        <Route path="/platforms/openaev" element={<OpenAEV />} />
-        <Route path="/platforms/xtm-suite" element={<XTMSuite />} />
-        <Route path="/platforms/xtm-hub" element={<XTMHubPage />} />
-        <Route path="/platforms/opengrc" element={<OpenGRC />} />
-        <Route path="/platforms/xtm-one" element={<XTMOne />} />
-        <Route path="/book-demo" element={<BookDemo />} />
-        <Route path="/filigran-account-creation" element={<FiligranAccountCreation />} />
-        <Route path="/community" element={<Community />} />
-        <Route path="/ecosystem/certifications" element={<CertificationPrograms />} />
-        <Route path="/use-cases" element={<UseCaseLibrary />} />
-        <Route path="/use-cases/intelligence-driven-defense-against-disinformation" element={<IntelligenceDefenseDisinformation />} />
-        <Route path="/use-cases/intelligence-driven-soc" element={<IntelligenceDrivenSOC />} />
-        <Route path="/use-cases/incident-response-and-investigation" element={<IncidentResponseInvestigation />} />
-        <Route path="/use-cases/threat-monitoring-hunting" element={<ThreatMonitoringHunting />} />
-        <Route path="/use-cases/intelligence-led-breach-attack-simulation" element={<IntelligenceBreachSimulation />} />
-        <Route path="/about" element={<About />} />
-        <Route path="/company/our-story" element={<OurStory />} />
-        <Route path="/company/leadership" element={<Leadership />} />
-        <Route path="/company/investors" element={<Investors />} />
-        <Route path="/company/newsroom" element={<Newsroom />} />
-        <Route path="/company/contact" element={<Contact />} />
-        <Route path="/privacy-policy" element={<PrivacyPolicy />} />
-        <Route path="/terms-of-services" element={<TermsOfServices />} />
-        <Route path="/licenses" element={<Licenses />} />
-        <Route path="/offerings/opencti-enterprise-edition" element={<OpenCTIEnterpriseEdition />} />
-        <Route path="/offerings/openaev-enterprise-edition" element={<OpenAEVEnterpriseEdition />} />
-        {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
-        <Route path="*" element={<NotFound />} />
-      </Routes>
-    </BrowserRouter>
-  </TooltipProvider>
+  <PasswordGate>
+    <TooltipProvider>
+      <Toaster />
+      <Sonner />
+      <BrowserRouter>
+        <ScrollToTop />
+        <Routes>
+          <Route path="/" element={<Index />} />
+          <Route path="/company" element={<About />} />
+          <Route path="/blog" element={<Blog />} />
+          <Route path="/blog/:slug" element={<BlogPost />} />
+          <Route path="/customers" element={<Customers />} />
+          <Route path="/customers/:slug" element={<CustomerStoryPage />} />
+          <Route path="/customer-stories/:slug" element={<CustomerStoryPage />} />
+          <Route path="/resources" element={<Resources />} />
+          <Route path="/content-library" element={<ContentLibraryPage />} />
+          <Route path="/events-webinars" element={<EventsWebinarsPage />} />
+          <Route path="/offerings" element={<Offerings />} />
+          <Route path="/offerings/professional-support-packages" element={<ProfessionalSupportPackages />} />
+          <Route path="/offerings/software-as-a-service" element={<SoftwareAsAService />} />
+          <Route path="/offerings/filigran-academy" element={<FiligranAcademy />} />
+          <Route path="/offerings/opengrc-enterprise-edition" element={<OpenGRCEnterpriseEdition />} />
+          <Route path="/offerings/dedicated-agentic-platform" element={<DedicatedAgenticPlatform />} />
+          <Route path="/partners" element={<Partners />} />
+          <Route path="/partners/mssp-partners" element={<MsspPartners />} />
+          <Route path="/partners/technology-alliances" element={<TechnologyAlliances />} />
+          <Route path="/partners/solutions-providers" element={<SolutionsProviders />} />
+          <Route path="/partners/marketplaces" element={<Marketplaces />} />
+          <Route path="/become-a-partner" element={<BecomeAPartner />} />
+          <Route path="/platforms/opencti" element={<OpenCTI />} />
+          <Route path="/platforms/openaev" element={<OpenAEV />} />
+          <Route path="/platforms/xtm-suite" element={<XTMSuite />} />
+          <Route path="/platforms/xtm-hub" element={<XTMHubPage />} />
+          <Route path="/platforms/opengrc" element={<OpenGRC />} />
+          <Route path="/platforms/xtm-one" element={<XTMOne />} />
+          <Route path="/book-demo" element={<BookDemo />} />
+          <Route path="/filigran-account-creation" element={<FiligranAccountCreation />} />
+          <Route path="/community" element={<Community />} />
+          <Route path="/ecosystem/certifications" element={<CertificationPrograms />} />
+          <Route path="/use-cases" element={<UseCaseLibrary />} />
+          <Route path="/use-cases/intelligence-driven-defense-against-disinformation" element={<IntelligenceDefenseDisinformation />} />
+          <Route path="/use-cases/intelligence-driven-soc" element={<IntelligenceDrivenSOC />} />
+          <Route path="/use-cases/incident-response-and-investigation" element={<IncidentResponseInvestigation />} />
+          <Route path="/use-cases/threat-monitoring-hunting" element={<ThreatMonitoringHunting />} />
+          <Route path="/use-cases/intelligence-led-breach-attack-simulation" element={<IntelligenceBreachSimulation />} />
+          <Route path="/about" element={<About />} />
+          <Route path="/company/our-story" element={<OurStory />} />
+          <Route path="/company/leadership" element={<Leadership />} />
+          <Route path="/company/investors" element={<Investors />} />
+          <Route path="/company/newsroom" element={<Newsroom />} />
+          <Route path="/company/contact" element={<Contact />} />
+          <Route path="/privacy-policy" element={<PrivacyPolicy />} />
+          <Route path="/terms-of-services" element={<TermsOfServices />} />
+          <Route path="/licenses" element={<Licenses />} />
+          <Route path="/offerings/opencti-enterprise-edition" element={<OpenCTIEnterpriseEdition />} />
+          <Route path="/offerings/openaev-enterprise-edition" element={<OpenAEVEnterpriseEdition />} />
+          {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
+          <Route path="*" element={<NotFound />} />
+        </Routes>
+      </BrowserRouter>
+    </TooltipProvider>
+  </PasswordGate>
 );
 
 export default App;

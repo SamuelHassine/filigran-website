@@ -120,6 +120,10 @@ All colors MUST be HSL.
     font-family: "Sora", "Inter", "Segoe UI", system-ui, -apple-system,
       BlinkMacSystemFont, sans-serif;
   }
+
+  body.password-locked {
+    overflow: hidden;
+  }
   
   h1, h2, h3, h4, h5, h6 {
     @apply font-bold;
