@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Redirecting...</title>
+    <meta name="robots" content="noindex" />
+    <script type="text/javascript">
+      // Single Page Apps for GitHub Pages
+      // https://github.com/rafgraph/spa-github-pages
+      // Keeps the repository folder (pathSegmentsToKeep) and redirects the rest to index.html
+      (function () {
+        var l = window.location;
+        var pathSegmentsToKeep = 0; // site served from custom domain root (mock.filigran.io)
+        var newUrl =
+          l.protocol +
+          "//" +
+          l.hostname +
+          (l.port ? ":" + l.port : "") +
+          l.pathname
+            .split("/")
+            .slice(0, 1 + pathSegmentsToKeep)
+            .join("/") +
+          "/?/" +
+          l.pathname
+            .split("/")
+            .slice(1 + pathSegmentsToKeep)
+            .join("/")
+            .replace(/&/g, "~and~") +
+          (l.search ? "&" + l.search.slice(1).replace(/&/g, "~and~") : "") +
+          l.hash;
+        l.replace(newUrl);
+      })();
+    </script>
+  </head>
+  <body>
+    <noscript>
+      <meta http-equiv="refresh" content="0; url=/" />
+      <p>
+        JavaScript is required to view this site. Please enable it and refresh the page.
+      </p>
+    </noscript>
+  </body>
+</html>
+

@@ -1,0 +1,822 @@
+
+
+
+<!doctype html>
+<html lang="en-US">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=5,user-scalable=0">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://filigran.io/app/themes/filigran/src/images/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://filigran.io/app/themes/filigran/src/images/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://filigran.io/app/themes/filigran/src/images/favicons/favicon-16x16.png">
+    <link rel="manifest" href="https://filigran.io/app/themes/filigran/src/images/favicons/site.webmanifest">
+    <link rel="mask-icon" href="https://filigran.io/app/themes/filigran/src/images/favicons/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+
+    <!-- Start of Reo Javascript -->
+    <script type="text/javascript">
+        ! function() {
+            var e, t, n;
+            e = "58d967e3f3ca784", t = function() {
+                Reo.init({
+                    clientID: "58d967e3f3ca784"
+                })
+            }, (n = document.createElement("script")).src = "https://static.reo.dev/" + e + "/reo.js", n.async = !0, n.onload = t, document.head.appendChild(n)
+        }();
+    </script> <!-- End of Reo Javascript -->
+
+    <script>
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-PRJH4Q3W');
+    </script>
+
+
+    <meta name='robots' content='noindex, follow' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/c766df9b3d98d86c95854162/script.js"></script>
+	<!-- This site is optimized with the Yoast SEO Premium plugin v24.8 (Yoast SEO v25.8) - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Page not found | Filigran</title>
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:title" content="Page not found | Filigran" />
+	<meta property="og:site_name" content="Filigran" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://filigran.io/#website","url":"https://filigran.io/","name":"Filigran","description":"Uncover Threats. Take Action.","publisher":{"@id":"https://filigran.io/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://filigran.io/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://filigran.io/#organization","name":"Filigran","url":"https://filigran.io/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://filigran.io/#/schema/logo/image/","url":"https://filigran.io/app/uploads/2024/03/filigran-logo-background.svg","contentUrl":"https://filigran.io/app/uploads/2024/03/filigran-logo-background.svg","width":300,"height":300,"caption":"Filigran"},"image":{"@id":"https://filigran.io/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/FiligranHQ","https://x.com/FiligranHQ","https://www.linkedin.com/company/filigran"],"description":"Embrace a proactive approach with end-to-end cyber Threat Management, from anticipation to response.","email":"contact@filigran.io","legalName":"Filigran","foundingDate":"2022-09-01","numberOfEmployees":{"@type":"QuantitativeValue","minValue":"51","maxValue":"200"},"publishingPrinciples":"https://filigran.io/privacy-policy/"}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//js-eu1.hs-scripts.com' />
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel="alternate" type="application/rss+xml" title="Filigran &raquo; Feed" href="https://filigran.io/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Filigran &raquo; Comments Feed" href="https://filigran.io/comments/feed/" />
+<link rel="stylesheet" href="https://filigran.io/app/plugins/pdfjs-viewer-shortcode/inc/../blocks/dist/style.css?v=25111612">
+<link rel="stylesheet" href="https://filigran.io/app/themes/filigran/style.css?v=25111612">
+<link rel="stylesheet" href="https://filigran.io/app/themes/filigran/dist/theme.css?v=25111612">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css?v=25111612">
+<link rel="stylesheet" href="https://filigran.io/app/themes/filigran/template-parts/components/header-service/dist/style.css?v=25111612">
+<link rel="stylesheet" href="https://filigran.io/app/themes/filigran/template-parts/components/promotional-banner/dist/style.css?v=25111612">
+<link rel="stylesheet" href="https://filigran.io/app/themes/filigran/template-parts/components/footer/dist/style.css?v=25111612">
+<link rel="stylesheet" href="https://filigran.io/app/themes/filigran/template-parts/blocks/hero/dist/style.css?v=25111612">
+<link rel="stylesheet" href="https://filigran.io/app/themes/filigran/template-parts/singles/post/dist/style.css?v=25111612">
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js?v=25111612" id="swiper-js-js"></script>
+<script id="ajax-script-js-extra">
+var wp_js = {"ajax_url":"https:\/\/filigran.io\/wp\/wp-admin\/admin-ajax.php"};
+</script>
+<script src="https://filigran.io/app/themes/filigran/js/ajax.js?v=25111612" id="ajax-script-js"></script>
+<link rel="https://api.w.org/" href="https://filigran.io/wp-json/" />			<!-- DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v11.3.16-->
+			<script class="hsq-set-content-id" data-content-id="standard-page">
+				var _hsq = _hsq || [];
+				_hsq.push(["setContentType", "standard-page"]);
+			</script>
+			<!-- DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin -->
+			<meta name="monitoring" content="true"/>
+	    <script>
+        var ajaxurl = 'https://filigran.io/wp/wp-admin/admin-ajax.php';
+    </script>
+<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript></head>
+
+<body class="error404 wp-theme-filigran hfeed no-sidebar">
+        <div class="page">
+        <header class="section" role="banner">
+    <div class="container">
+
+        <nav class="navbar" role="navigation" aria-label="main navigation">
+
+            <div class="site-logo">
+                <a href="https://filigran.io" title="Back to homepage" rel="home">
+                    <img src="https://filigran.io/app/themes/filigran/src/images/logo.svg" alt="Logo Filigran" />
+                </a>
+
+            </div>
+            <div class="menu">
+                <ul id="menu-header" class="menu">
+<li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-children-container-type-container menu-item-type-classic menu-item-children-items-classic"><a href="#" >Platforms</a><ul class="sub-menu level-0"><li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-children-container-type-auto menu-item-type-container menu-item-background-none menu-item-children-items-logo" ><a href="#">Platforms</a><ul class="sub-menu level-1">
+<li class=" menu-item menu-item-type-post_type menu-item-object-solution menu-item-children-container-type-auto menu-item-type-logo menu-item-children-items-classic"><a href="https://filigran.io/platforms/opencti/" >
+        <div class="logo"><img width="150" height="40" src="https://filigran.io/app/uploads/2024/12/logo_cti_white-light-blue_menu150x40.svg" class="attachment-thumbnail size-thumbnail" alt="OpenCTI logo" decoding="async" /></div>
+        <div class="text">Cyber Threat Intelligence</div>
+    </a></li>
+<li class=" menu-item menu-item-type-post_type menu-item-object-solution menu-item-children-container-type-auto menu-item-type-logo menu-item-children-items-classic"><a href="https://filigran.io/platforms/openaev/" >
+        <div class="logo"><img width="150" height="29" src="https://filigran.io/app/uploads/2025/10/logo_openaev_couleurs.svg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" /></div>
+        <div class="text">Adversarial Exposure Validation</div>
+    </a></li></ul></li><li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-children-container-type-auto menu-item-type-container menu-item-background-none menu-item-children-items-classic" ><a href="#">Filigran advantage</a><ul class="sub-menu level-1">
+<li class=" menu-item menu-item-type-post_type menu-item-object-solution menu-item-children-container-type-auto menu-item-type-picto menu-item-children-items-classic"><a href="https://filigran.io/platforms/xtm-suite/" ><img src="https://filigran.io/app/uploads/2025/09/embleme_filigran_couleurs-light-blue.svg" alt="XTM Suite">
+        <div class="text">XTM Suite</div>
+    </a></li>
+<li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-children-container-type-auto menu-item-type-picto menu-item-children-items-classic"><a href="https://filigran.io/agentic-ai/" ><img src="https://filigran.io/app/uploads/2025/09/embleme_filigran-ai_couleurs-light-purple.svg" alt="Agentic AI">
+        <div class="text">Agentic AI</div>
+    </a></li></ul></li><li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-children-container-type-auto menu-item-type-container menu-item-background-light menu-item-children-items-classic" ><a href="#">Use cases</a><ul class="sub-menu level-1">
+<li class=" menu-item menu-item-type-post_type menu-item-object-use-case menu-item-children-container-type-auto menu-item-type-classic menu-item-children-items-classic"><a href="https://filigran.io/use-cases/intelligence-driven-defense-against-disinformation/" >Intelligence-driven defense against disinformation</a></li>
+<li class=" menu-item menu-item-type-post_type menu-item-object-use-case menu-item-children-container-type-auto menu-item-type-classic menu-item-children-items-classic"><a href="https://filigran.io/use-cases/intelligence-driven-soc/" >Intelligence-driven SOC</a></li>
+<li class=" menu-item menu-item-type-post_type menu-item-object-use-case menu-item-children-container-type-auto menu-item-type-classic menu-item-children-items-classic"><a href="https://filigran.io/use-cases/incident-response-and-investigation/" >Incident response and investigation</a></li>
+<li class=" menu-item menu-item-type-post_type menu-item-object-use-case menu-item-children-container-type-auto menu-item-type-classic menu-item-children-items-classic"><a href="https://filigran.io/use-cases/threat-monitoring-hunting/" >Threat monitoring and hunting</a></li>
+<li class=" menu-item menu-item-type-post_type menu-item-object-use-case menu-item-children-container-type-auto menu-item-type-classic menu-item-children-items-classic"><a href="https://filigran.io/use-cases/intelligence-led-breach-attack-simulation/" >Intelligence-led breach &amp; attack simulation</a></li>
+<li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-children-container-type-auto menu-item-type-classic menu-item-children-items-classic"><a href="https://filigran.io/use-case-library/" >View all use cases ➜</a></li></ul></li></ul></li>
+<li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-children-container-type-auto menu-item-type-classic menu-item-children-items-picto"><a href="#" >Offerings</a><ul class="sub-menu level-0">
+<li class=" menu-item menu-item-type-post_type menu-item-object-offering menu-item-children-container-type-auto menu-item-type-picto menu-item-children-items-classic"><a href="https://filigran.io/offerings/software-as-a-service/" ><img src="https://filigran.io/app/uploads/2024/04/cloud-hosting.svg" alt="Software as a Service">
+        <div class="text">Software as a Service</div>
+    </a></li>
+<li class=" menu-item menu-item-type-post_type menu-item-object-offering menu-item-children-container-type-auto menu-item-type-picto menu-item-children-items-classic"><a href="https://filigran.io/offerings/professional-support-packages/" ><img src="https://filigran.io/app/uploads/2024/03/supportpackages.svg" alt="Support and Services">
+        <div class="text">Support and Services</div>
+    </a></li>
+<li class=" menu-item menu-item-type-post_type menu-item-object-offering menu-item-children-container-type-auto menu-item-type-picto menu-item-children-items-classic"><a href="https://filigran.io/offerings/opencti-enterprise-edition/" ><img src="https://filigran.io/app/uploads/2024/03/enterpriseedition.svg" alt="OpenCTI Enterprise Edition">
+        <div class="text">OpenCTI Enterprise Edition</div>
+    </a></li>
+<li class=" menu-item menu-item-type-post_type menu-item-object-offering menu-item-children-container-type-auto menu-item-type-picto menu-item-children-items-classic"><a href="https://filigran.io/offerings/openaev-enterprise-edition/" ><img src="https://filigran.io/app/uploads/2024/04/enterprise-edition.svg" alt="OpenAEV Enterprise Edition">
+        <div class="text">OpenAEV Enterprise Edition<span class="label">New</span></div>
+    </a></li>
+<li class=" menu-item menu-item-type-post_type menu-item-object-offering menu-item-children-container-type-auto menu-item-type-picto menu-item-children-items-classic"><a href="https://filigran.io/offerings/filigran-academy/" ><img src="https://filigran.io/app/uploads/2024/04/training-courses.svg" alt="Filigran Academy Training Options">
+        <div class="text">Filigran Academy Training Options</div>
+    </a></li></ul></li>
+<li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-children-container-type-auto menu-item-type-classic menu-item-children-items-picto"><a href="#" >Partners</a><ul class="sub-menu level-0">
+<li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-children-container-type-auto menu-item-type-classic menu-item-children-items-classic"><a href="https://filigran.io/mssp-partners/" >MSSP Partners</a></li>
+<li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-children-container-type-auto menu-item-type-classic menu-item-children-items-classic"><a href="https://filigran.io/technology-alliances/" >Technology Alliances</a></li>
+<li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-children-container-type-auto menu-item-type-classic menu-item-children-items-classic"><a href="https://filigran.io/solutions-providers/" >Solutions Providers</a></li>
+<li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-children-container-type-auto menu-item-type-classic menu-item-children-items-classic"><a href="https://filigran.io/marketplaces/" >Marketplaces</a></li></ul></li>
+<li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-children-container-type-auto menu-item-type-classic menu-item-children-items-classic"><a href="#" >Resources</a><ul class="sub-menu level-0"><li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-children-container-type-auto menu-item-type-container menu-item-background-none menu-item-children-items-classic" ><a href="#">Tech center</a><ul class="sub-menu level-1">
+<li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-children-container-type-auto menu-item-type-picto menu-item-children-items-classic"><a href="https://hub.filigran.io/" target="_blank"><img src="https://filigran.io/app/uploads/2025/03/embleme_filigran_blanc.svg" alt="XTM Hub">
+        <div class="text">XTM Hub</div>
+    </a></li>
+<li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-children-container-type-auto menu-item-type-picto menu-item-children-items-classic"><a href="https://academy.filigran.io/" target="_blank"><img src="https://filigran.io/app/uploads/2024/04/training-courses-white.svg" alt="Filigran Academy">
+        <div class="text">Filigran Academy</div>
+    </a></li>
+<li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-children-container-type-auto menu-item-type-picto menu-item-children-items-classic"><a href="https://github.com/FiligranHQ" target="_blank"><img src="https://filigran.io/app/uploads/2024/04/image-30.png" alt="Github">
+        <div class="text">Github</div>
+    </a></li>
+<li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-children-container-type-auto menu-item-type-picto menu-item-children-items-classic"><a href="https://community.filigran.io/" target="_blank"><img src="https://filigran.io/app/uploads/2024/04/slack-1.svg" alt="Filigran Community">
+        <div class="text">Filigran Community</div>
+    </a></li>
+<li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-children-container-type-auto menu-item-type-picto menu-item-children-items-classic"><a href="https://filigran.notion.site/OpenCTI-Ecosystem-868329e9fb734fca89692b2ed6087e76" target="_blank"><img src="https://filigran.io/app/uploads/2024/04/connectors-white.svg" alt="OpenCTI integrations">
+        <div class="text">OpenCTI integrations</div>
+    </a></li>
+<li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-children-container-type-auto menu-item-type-picto menu-item-children-items-classic"><a href="https://filigran.notion.site/OpenBAS-Ecosystem-30d8eb73d7d04611843e758ddef8941b" target="_blank"><img src="https://filigran.io/app/uploads/2024/04/connectors-white.svg" alt="OpenAEV integrations">
+        <div class="text">OpenAEV integrations</div>
+    </a></li></ul></li><li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-children-container-type-auto menu-item-type-container menu-item-background-light menu-item-children-items-classic" ><a href="#">Learning center</a><ul class="sub-menu level-1">
+<li class=" menu-item menu-item-type-post_type menu-item-object-solution menu-item-children-container-type-auto menu-item-type-classic menu-item-children-items-classic"><a href="https://filigran.io/platforms/xtm-hub/" >What is XTM Hub</a></li>
+<li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-children-container-type-auto menu-item-type-classic menu-item-children-items-classic"><a href="https://filigran.io/our-blog/" >Filigran Blog</a></li>
+<li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-children-container-type-auto menu-item-type-classic menu-item-children-items-classic"><a href="https://filigran.io/events-webinars/" >Events &amp; Webinars</a></li>
+<li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-children-container-type-auto menu-item-type-classic menu-item-children-items-classic"><a href="https://filigran.io/content-library/" >Content Library</a></li>
+<li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-children-container-type-auto menu-item-type-classic menu-item-children-items-classic"><a href="https://filigran.io/community/" >Community</a></li></ul></li></ul></li>
+<li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-children-container-type-auto menu-item-type-classic menu-item-children-items-picto"><a href="#" >Company</a><ul class="sub-menu level-0">
+<li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-children-container-type-auto menu-item-type-classic menu-item-children-items-classic"><a href="https://filigran.io/our-story/" >Our Story</a></li>
+<li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-children-container-type-auto menu-item-type-classic menu-item-children-items-classic"><a href="https://filigran.io/leadership/" >Leadership</a></li>
+<li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-children-container-type-auto menu-item-type-classic menu-item-children-items-classic"><a href="https://www.welcometothejungle.com/en/companies/filigran" target="_blank">Careers</a></li>
+<li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-children-container-type-auto menu-item-type-classic menu-item-children-items-classic"><a href="https://filigran.io/our-investors/" >Our Investors</a></li>
+<li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-children-container-type-auto menu-item-type-classic menu-item-children-items-classic"><a href="https://filigran.io/newsroom/" >Newsroom</a></li>
+<li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-children-container-type-auto menu-item-type-classic menu-item-children-items-classic"><a href="https://zeroheight.com/020822383/p/08b3df-filigran-identity" target="_blank">Our Brand</a></li></ul></li></ul>                                    <div class="cta-container">
+                        <a href="https://filigran.io/book-a-demo/" class="button button-primary">Book a demo</a>
+                    </div>
+                
+            </div>
+            <div class="hamburger">
+                <div class="hamburger-line"></div>
+                <div class="hamburger-line"></div>
+                <div class="hamburger-line"></div>
+            </div>
+        </nav>
+    </div>
+</header>
+<main id="main" class="post">
+	<div class="halo-mouse"></div>
+	<section class="block component-hero-container">
+        	<div class="container">
+		<div class="content has-thumbnail">
+			<div class="categories">
+									<div class="label category-post color-yellow" style="--bg-color: #432A04; --border-color: #6D4E08; --text-color: #E1DA56;">
+    Adversarial Exposure Validation</div>									<div class="label category-post color-purple" style="--bg-color: #200443; --border-color: #3E1277; --text-color: #D7ADFF;">
+    Breach &amp; Attack Simulation</div>									<div class="label category-post color-blue" style="--bg-color: #021525; --border-color: #042F52; --text-color: #0FBCFF;">
+    Corporate</div>							</div>
+			<h1>
+				Introducing OpenAEV: The next evolution in Proactive Security Validation			</h1>
+			<div class="infos">
+				<span>Oct 29, 2025</span>
+				<span>•</span>
+				<span>6 min read</span>
+			</div>
+		</div>
+
+					<div class="thumbnail">
+				<img width="1400" height="732" src="https://filigran.io/app/uploads/2025/10/filigran_blog-article_launch-oaev-ee_1025.svg" class="attachment-full size-full wp-post-image" alt="" decoding="async">			</div>
+		
+	</div>
+	</section>	<section class="post">
+		<div class="container">
+			<div class="sidebar-container">
+				<div class="sidebar">
+					<div class="summary">
+					</div>
+					<div class="authors">
+																					<div class="author">
+    <div class="avatar">
+        <img width="150" height="150" src="https://filigran.io/app/uploads/2024/07/img_20231202_145149-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" />    </div>
+    <div class="detail">
+        <p class="name">Margaux Chatelet</p>
+        <p>Communication Manager</p>
+    </div>
+</div>															<div class="author">
+    <div class="avatar">
+        <img width="150" height="150" src="https://filigran.io/app/uploads/2025/04/neenasharma_mar2025-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" />    </div>
+    <div class="detail">
+        <p class="name">Neena Sharma</p>
+        <p>Head of Product and Customer Marketing </p>
+    </div>
+</div>																		</div>
+					<div class="social-share">
+						<div class="component component-social-share">
+    <ul>
+                    <li>
+                <a href="https://filigran.io/introducing-openaev-the-next-evolution-in-proactive-security-validation/" data-destination="copy" target="_blank">
+                    <img src="https://filigran.io/app/uploads/2024/07/link-simple-sharp-solid.svg" alt="Link icon">
+                </a>
+                <div class="copied-fallback">
+                    <span>Copied!</span>
+                </div>
+            </li>
+                    <li>
+                <a href="https://www.linkedin.com/shareArticle?url=https://filigran.io/introducing-openaev-the-next-evolution-in-proactive-security-validation/" data-destination="new-tab" target="_blank">
+                    <img src="https://filigran.io/app/uploads/2024/07/linkedin.svg" alt="Linkedin icon">
+                </a>
+                <div class="copied-fallback">
+                    <span>Copied!</span>
+                </div>
+            </li>
+                    <li>
+                <a href="https://twitter.com/intent/tweet?url=https://filigran.io/introducing-openaev-the-next-evolution-in-proactive-security-validation/" data-destination="new-tab" target="_blank">
+                    <img src="https://filigran.io/app/uploads/2024/07/x-twitter.svg" alt="Twitter icon">
+                </a>
+                <div class="copied-fallback">
+                    <span>Copied!</span>
+                </div>
+            </li>
+            </ul>
+</div>					</div>
+				</div>
+			</div>
+			<div class="content">
+				<div id="introduction"></div>
+				
+<p>When we first launched <strong>OpenBAS</strong>, we set out to operationalize breach and attack simulation, making it accessible, transparent, and actionable for every security team. Thanks to your feedback and support, the Community Edition (CE) delivered on that promise.<br>As we evolved the platform and incorporated community’s feedback, we broadened the use cases and doubled down on meaningful outcomes: clearer findings, prioritized recommendations, and workflows that mobilize security teams to close gaps. We learned that real progress happens in a continuous, closed loop &#8211; prioritize, validate, remediate, and verify.<br>Today, we’re proud to introduce <strong>OpenAEV</strong> (Adversarial Exposure Validation), the next chapter in our journey toward continuous threat exposure management. And for organizations that need to run at scale, we’re launching <strong>OpenAEV Enterprise Edition (EE)</strong>, combining AI‑driven automation with guided remediation to provide enterprise‑grade scalability and impact.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 class="wp-block-heading" id="h-tl-dr">TL;DR</h2>
+
+
+
+<ul class="wp-block-list">
+<li><strong>OpenAEV</strong> introduces <em>Adversarial Exposure Validation (AEV)</em>, the next step beyond Breach and Attack Simulation.</li>
+
+
+
+<li>It connects <strong>threat intelligence, exposure data, and validation</strong> to show what really matters and how to fix it.</li>
+
+
+
+<li>The <strong><a href="https://filigran.io/offerings/openaev-enterprise-edition/">Enterprise Edition</a></strong> adds <strong>AI automation, remediation guidance, and scalability</strong> for large environments.</li>
+
+
+
+<li><strong>OpenAEV</strong> works with <strong>OpenCTI</strong> and <strong>XTM Hub</strong> for seamless, intel-driven defense.</li>
+
+
+
+<li>The <strong>Filigran Academy</strong> and <strong>Scenario Library</strong> help teams learn faster and mature their exposure management programs.</li>
+</ul>
+
+
+<div class="tac_iframe" data-content="
+&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+  &lt;meta charset=&quot;UTF-8&quot;&gt;
+  &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+  &lt;div align=&quot;center&quot;&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; 
+      src=&quot;https://www.youtube.com/embed/wb_v7sa7y8w?si=e-6dqYUplk_I1WU4&quot; 
+      title=&quot;YouTube video player&quot; 
+      frameborder=&quot;0&quot; 
+      allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; 
+      referrerpolicy=&quot;strict-origin-when-cross-origin&quot; 
+      allowfullscreen&gt;
+    &lt;/iframe&gt;
+  &lt;/div&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+"height="315">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+  <div align="center">
+    <iframe width="560" height="315" 
+      src="https://www.youtube.com/embed/wb_v7sa7y8w?si=e-6dqYUplk_I1WU4" 
+      title="YouTube video player" 
+      frameborder="0" 
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+      referrerpolicy="strict-origin-when-cross-origin" 
+      allowfullscreen>
+    </iframe>
+  </div>
+
+</body>
+</html>
+</div>
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 class="wp-block-heading" id="h-from-simulation-to-continuous-validation">From simulation to continuous validation</h2>
+
+
+
+<p>If you’ve read our recent post on the <a href="https://filigran.io/bas-to-aev-and-a-move-towards-unified-exposure-management/">shift from BAS to AEV</a>, you already know the story behind this evolution. The world of breach and attack simulation has changed. Security teams no longer want isolated tests; they want continuous visibility, actionable insights, and validation that reflects how modern attackers actually operate.</p>
+
+
+
+<p><strong>Adversarial Exposure Validation (AEV)</strong> represents that evolution.</p>
+
+
+
+<p>It connects the dots between threat intelligence, exposures, and validation to answer a single, crucial question: <em>what can actually hurt us, and how do we stop it?</em></p>
+
+
+
+<p>OpenAEV is built to help teams continuously assess, prioritize, and improve their defenses. And it allows defenses to be tested from all angles &#8211; tools, processes and people. <em><strong>Its industry’s first open-source, threat-informed end-to-end AEV solution.</strong></em></p>
+
+
+
+<p>OpenAEV is tightly integrated with OpenCTI: OpenCTI surfaces threats and exposures; OpenAEV makes them actionable. The bi-directional connection lets you build intel-driven, prioritized scenarios in OpenCTI and launch them in OpenAEV, closing the loop from insight to validation to improvement.</p>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1920" height="742" src="https://filigran.io/app/uploads/2024/04/openaev-ecosystem_102025-light.svg" alt="" class="wp-image-5828"/></figure>
+
+
+
+<h2 class="wp-block-heading">Connecting Technology, People, and Processes</h2>
+
+
+
+<p>Security validation isn’t only about technology. It’s about people: their decisions, reactions, and coordination under pressure. OpenAEV supports this human readiness through built-in <a href="https://filigran.io/how-to-run-a-successful-cybersecurity-tabletop-exercise/">tabletop exercises</a> so teams can simulate both attack scenarios and end-to-end crisis response. This is essential for validating and stress-testing your incident response plan. Ditch the manual checklists and Excel sheets: OpenAEV standardizes, automates, and scales tabletop programs globally.</p>
+
+
+<div class="tac_iframe" data-content="
+&lt;div style=&quot;background: radial-gradient(80.02% 39.33% at 51.52% 88.18%, rgba(15, 188, 255, .1) 0%, rgba(15, 188, 255, 0) 100%), linear-gradient(321deg, #021525 10.12%, rgba(40, 52, 79, 0) 98.26%); border-radius:10px; border: 1px solid rgba(255, 255, 255, 0.2);margin: var(--spacing-xl) 0px; padding: var(--spacing-xl); position: relative; overflow: hidden;&quot;&gt;
+&lt;p&gt;When the &lt;strong&gt;Swiss Federal Department of Foreign Affairs (FDFA)&lt;/strong&gt; went on a lookout for a crisis management tool to conduct situational awareness and table-top exercises, they turned to Filigran. Managing security across 170 locations worldwide, they faced the ultimate scalability challenge. Traditional annual exercises couldn&#039;t possibly prepare their globally distributed team for the diverse threats they face.&lt;/p&gt;
+&lt;a href=&quot;https://filigran.io/customer-stories/how-switzerlands-fdfa-trains-smarter-with-openbas/&quot; target=&quot;_blank&quot; style=&quot;color:#0FBCFF; text-decoration:none; font-weight:500;&quot;&gt;
+    Read the full story
+  &lt;/a&gt;
+&lt;/div&gt;
+">
+<div style="background: radial-gradient(80.02% 39.33% at 51.52% 88.18%, rgba(15, 188, 255, .1) 0%, rgba(15, 188, 255, 0) 100%), linear-gradient(321deg, #021525 10.12%, rgba(40, 52, 79, 0) 98.26%); border-radius:10px; border: 1px solid rgba(255, 255, 255, 0.2);margin: var(--spacing-xl) 0px; padding: var(--spacing-xl); position: relative; overflow: hidden;">
+<p>When the <strong>Swiss Federal Department of Foreign Affairs (FDFA)</strong> went on a lookout for a crisis management tool to conduct situational awareness and table-top exercises, they turned to Filigran. Managing security across 170 locations worldwide, they faced the ultimate scalability challenge. Traditional annual exercises couldn&#8217;t possibly prepare their globally distributed team for the diverse threats they face.</p>
+<a href="https://filigran.io/customer-stories/how-switzerlands-fdfa-trains-smarter-with-openbas/" target="_blank" style="color:#0FBCFF; text-decoration:none; font-weight:500;">
+    Read the full story
+  </a>
+</div>
+</div>
+
+
+<h2 class="wp-block-heading" id="h-fast-track-your-operations-with-openaev-enterprise-edition">Fast Track Your Operations with OpenAEV Enterprise Edition</h2>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://filigran.io/app/uploads/2025/10/blog-oaev-ee-main-features_1025-1024x576.png" alt="" class="wp-image-5880" srcset="https://filigran.io/app/uploads/2025/10/blog-oaev-ee-main-features_1025-1024x576.png 1024w, https://filigran.io/app/uploads/2025/10/blog-oaev-ee-main-features_1025-300x169.png 300w, https://filigran.io/app/uploads/2025/10/blog-oaev-ee-main-features_1025-768x432.png 768w, https://filigran.io/app/uploads/2025/10/blog-oaev-ee-main-features_1025.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">OpenAEV Enterprise Edition &#8211; Main Features</figcaption><figcaption></figcaption></figure>
+
+
+
+<p>While OpenAEV Community Edition (CE) lets you explore the platform, see the benefits, and help you build the business case for your exposure validation program, the <a href="https://filigran.io/offerings/openaev-enterprise-edition/">Enterprise Edition (EE)</a> supercharges it with:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Ability to use your existing EDR agents for seamless execution, without additional overload on already resource constrainted endpoints</li>
+
+
+
+<li>Automated workflows and AI-assisted scenario generation for faster testing and coverage while and still fully customizable</li>
+
+
+
+<li>AI-powered remediation guidance that augments human intelligence with prioritized, actionable recommendations</li>
+
+
+
+<li>Dedicated support by a committed team of Filigran and AEV experts</li>
+
+
+
+<li>SaaS deployment hosted by Filigran for ease of use and scalability</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">Our Commitment to your Exposure Management Journey</h2>
+
+
+
+<p>Behind our open-source and community-based product philosophy, lies our committment to your exposure management journey, from helping you build first use case to full-scale program. To this effect, we are also launching two new initiatives today:</p>
+
+
+
+<h3 class="wp-block-heading" id="h-filigran-academy-learn-grow-and-master-aev">Filigran Academy: Learn, Grow, and Master AEV</h3>
+
+
+
+<p>Filigran Academy was created to empower security professionals through structured, hands-on learning about threat management. We’re now expanding it with <strong>OpenAEV courses</strong>, offering three learning paths to guide you from fundamentals to advanced mastery.</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>OpenAEV 101: Introduction to Adversarial Exposure Validation &#8211;</strong> Build your foundation in AEV with hands-on OpenAEV training from Filigran Academy.</li>
+
+
+
+<li><strong>OpenAEV 201: Operational Integration and Continuous Validation &#8211;</strong> Learn to integrate and automate OpenAEV across your security ecosystem.</li>
+
+
+
+<li><strong>OpenAEV 301: Advanced Scenario Design and Program Maturity &#8211;</strong> Master advanced simulations and lead a mature AEV program through expert-led sessions.</li>
+</ul>
+
+
+
+<p>Whether you’re new to AEV or already building continuous validation workflows, these courses will help you and your team get more from OpenAEV and the broader Filigran ecosystem.</p>
+
+
+
+<p><a href="https://www.notion.so/2718fce17f2a8000ada1c70be499c490?pvs=21"><strong>Explore Filigran Academy</strong></a></p>
+
+
+
+<h3 class="wp-block-heading" id="h-scenario-library-available-via-xtm-hub">Scenario Library: Available via XTM Hub</h3>
+
+
+
+<p>XTM Hub is our central resource library for the entire Filigran <a href="https://filigran.io/platforms/xtm-suite/">XTM Suite</a>, connecting users to the content they need to get value faster.</p>
+
+
+
+<p>Today, <a href="https://hub.filigran.io/cybersecurity-solutions/open-bas-scenarios">custom scenarios</a> are ready to be uploaded and used directly in OpenAEV, and soon, XTM Hub will include even more resources to accelerate learning and experimentation.</p>
+
+
+
+<p>Users are now able to <strong>register their OpenAEV platform directly in XTM Hub</strong>. From there, every resource (a new scenario, payloads..) will be just one click away from deployment. No more downloading and uploading files manually. Just pick what you need, and it’s instantly available in your OpenAEV instance.</p>
+
+
+
+<p>This is our next step toward seamless collaboration and speed.</p>
+
+
+
+<p><a href="https://filigran.io/seamless-openaev-scenarios-deployment-using-xtm-hub/"><strong>Learn more</strong></a></p>
+
+
+
+<h3 class="wp-block-heading" id="h-live-webinar-operationalizing-incident-response-with-aev">Live Webinar: Operationalizing Incident Response with AEV</h3>
+
+
+
+<p>This November, join us for a <strong>live webinar on “Operationalizing IR: Compliance-Ready Tabletop Exercises with an AEV Platform.”</strong></p>
+
+
+
+<p>Tabletop exercises are a key part of every <strong>Incident Response (IR)</strong> plan, but scaling them effectively has always been difficult. In this session, our expert panel will explore how an <strong>Adversarial Exposure Validation (AEV)</strong> platform like <strong>OpenAEV</strong> can help organizations <strong>standardize, automate, and scale</strong> tabletop exercises across teams and regions.</p>
+
+
+
+<p>You’ll learn how to:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Integrate tabletop exercises to measure and improve <strong>human readiness</strong></li>
+
+
+
+<li>Build <strong>compliance-ready IR programs</strong> aligned with <strong>DORA</strong> and <strong>NIS2</strong></li>
+
+
+
+<li>Extend security validation beyond tools to include <strong>real-world response</strong></li>
+</ul>
+
+
+
+<p><strong>Register for the webinar: <a href="https://filigran.registration.goldcast.io/webinar/2ef5d8e7-d215-49e4-95fb-412f11ddd299">EMEA</a> | <a href="https://filigran.registration.goldcast.io/webinar/b9623da3-3f7f-401e-8ba1-29c9935405f8">NA</a></strong></p>
+
+
+
+<h2 class="wp-block-heading" id="h-a-new-chapter-in-proactive-defense">A new chapter in proactive defense</h2>
+
+
+
+<p>The launch of OpenAEV CE and EE marks an important milestone in Filigran’s journey, but it’s also part of something bigger: a collective shift in how the security community approaches exposure management and validation.</p>
+
+
+
+<p>Together, we’re moving from testing in isolation to validating continuously.<br>From running tools to building resilience.<br>From simulation to <strong>Adversarial Exposure Validation</strong>.</p>
+
+
+
+<p>Whether you’re using the Community Edition, exploring the Enterprise Edition, diving into the XTM Hub, or learning through the Filigran Academy, OpenAEV is here to help you stay ahead.</p>
+
+
+
+<p><strong>Join the journey.</strong><br>Learn more about <a href="https://filigran.io/platforms/openaev/">OpenAEV</a> or connect with <a href="https://filigran-community.slack.com/archives/CJ1PHBHF1">our community on Slack</a>.</p>
+			</div>
+		</div>
+	</section>
+
+	<section class="other-posts">
+		<div class="container">
+			<h2>Read more</h2>
+			<p>Explore related topics and insights</p>
+			<div class="cards">
+									<div class="card-post">
+						<article class="component-card-post  card-post-vertical">
+    <a href="https://filigran.io/seamless-openaev-scenarios-deployment-using-xtm-hub/" class="card  bg-card-3 ">
+        <div class="thumbnail">
+            <img width="300" height="300" src="https://filigran.io/app/uploads/2025/10/filigran_blog_oaev-1click-deploy-hub_1125.svg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async">        </div>
+        <div class="content">
+            <div class="categories">
+                                                            <div class="label category-post color-yellow" style="--bg-color: #432A04; --border-color: #6D4E08; --text-color: #E1DA56;">
+    Adversarial Exposure Validation</div>                                            <div class="label category-post color-green" style="--bg-color: #092D1E; --border-color: #0C5333; --text-color: #6ADC9D;">
+    Community</div>                    
+                            </div>
+            <div class="title">
+                <h4>Seamless OpenAEV scenarios deployment using XTM Hub</h4>
+            </div>
+            <div class="infos">
+                <span>Valentin Stern</span>
+                <span>•</span>
+                <span>Oct 29, 2025</span>
+                <span>•</span>
+                <span>5 min read</span>
+            </div>
+        </div>
+
+    </a>
+</article>					</div>
+									<div class="card-post">
+						<article class="component-card-post  card-post-vertical">
+    <a href="https://filigran.io/how-to-run-a-successful-cybersecurity-tabletop-exercise/" class="card  bg-card-3 ">
+        <div class="thumbnail">
+            <img width="300" height="157" src="https://filigran.io/app/uploads/2025/10/filigran_blog-article_tabletop-oaev_1025.svg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async">        </div>
+        <div class="content">
+            <div class="categories">
+                                                            <div class="label category-post color-yellow" style="--bg-color: #432A04; --border-color: #6D4E08; --text-color: #E1DA56;">
+    Adversarial Exposure Validation</div>                                            <div class="label category-post color-purple" style="--bg-color: #200443; --border-color: #3E1277; --text-color: #D7ADFF;">
+    Breach &amp; Attack Simulation</div>                    
+                            </div>
+            <div class="title">
+                <h4>How to run a successful cybersecurity tabletop exercise?</h4>
+            </div>
+            <div class="infos">
+                <span>Neena Sharma</span>
+                <span>•</span>
+                <span>Oct 22, 2025</span>
+                <span>•</span>
+                <span>6 min read</span>
+            </div>
+        </div>
+
+    </a>
+</article>					</div>
+									<div class="card-post">
+						<article class="component-card-post  card-post-vertical">
+    <a href="https://filigran.io/bas-to-aev-and-a-move-towards-unified-exposure-management/" class="card  bg-card-3 ">
+        <div class="thumbnail">
+            <img width="300" height="300" src="https://filigran.io/app/uploads/2025/10/filigran_blog-article_bas-to-oaev_1025.svg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async">        </div>
+        <div class="content">
+            <div class="categories">
+                                                            <div class="label category-post color-yellow" style="--bg-color: #432A04; --border-color: #6D4E08; --text-color: #E1DA56;">
+    Adversarial Exposure Validation</div>                                            <div class="label category-post color-purple" style="--bg-color: #200443; --border-color: #3E1277; --text-color: #D7ADFF;">
+    Breach &amp; Attack Simulation</div>                                            <div class="label category-post color-yellow" style="--bg-color: #432A04; --border-color: #6D4E08; --text-color: #E1DA56;">
+    Threat Intelligence</div>                    
+                            </div>
+            <div class="title">
+                <h4>BAS to AEV and a Move Towards Unified Exposure Management</h4>
+            </div>
+            <div class="infos">
+                <span>Neena Sharma</span>
+                <span>•</span>
+                <span>Oct 21, 2025</span>
+                <span>•</span>
+                <span>7 min read</span>
+            </div>
+        </div>
+
+    </a>
+</article>					</div>
+							</div>
+		</div>
+	</section>
+			
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-9d6595d7 wp-block-columns-is-layout-flex" id="newsletter">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"><section class="block block-jumbotron-newsletter">
+    <div class="container">
+        <div class="container component component-jumbotron">
+    <div class="jumbotron">
+        
+        <div class="content">
+            <h2><span>Stay up to date with</span> <span>everything at Filigran</span></h2>
+            <div class="text">
+                <p>Sign up for our newsletter and get bi-monthly updates of Filigran major events: product updates, upcoming events, latest content and more.</p>
+            </div>
+            <div class="form">
+                
+						<script>
+							window.hsFormsOnReady = window.hsFormsOnReady || [];
+							window.hsFormsOnReady.push(()=>{
+								hbspt.forms.create({
+									portalId: 26791207,
+									formId: "ebb3382e-aa27-4002-a336-5e966866e407",
+									target: "#hbspt-form-1763295569000-7318346082",
+									region: "eu1",
+									
+							})});
+						</script>
+						<div class="hbspt-form" id="hbspt-form-1763295569000-7318346082"></div>            </div>
+        </div>
+
+
+
+            </div>
+</div>
+
+    </div>
+</section></div>
+</div>
+	</main><!-- #main -->
+
+ <footer id="footer" class="footer">
+		<div class="container">	
+			<div class="footer-primary">
+				<div class="logo-container">
+					<div class="logo">
+						<img src="https://filigran.io/app/themes/filigran/src/images/logo.svg" alt="Logo Filigran" />
+					</div>
+				</div>
+				<div class="content-container">
+					<div class="content">
+						<div class="text">
+							<p>Filigran provides open-source cybersecurity solutions covering threat intelligence management, breach and attack simulation, and cyber risk management.</p>
+<div style="margin: 20px auto 20px auto; display: flex; gap: 10px; align-items: center;">
+<div style="width: 72px; height: 72px;"><a style="gap: 0px;" href="https://app.drata.com/trust/ba12f398-34a3-4473-a3a1-482c1591b77b" target="_blank" rel="noopener"><img decoding="async" class="alignnone size-medium wp-image-2921" src="https://filigran.io/app/uploads/2024/12/isomark_27001-2022-white-278x300.png" alt="ISO 27001-2022 certification" width="72" height="72" /></a></div>
+<div style="width: 72px; height: 72px;"><a style="gap: 0px;" href="https://app.drata.com/trust/ba12f398-34a3-4473-a3a1-482c1591b77b" target="_blank" rel="noopener"><img decoding="async" class="alignnone size-medium wp-image-2911" src="https://filigran.io/app/uploads/2025/03/soc_marks-type-2_png.png" alt="SOC Type 2 certification" width="72" height="72" /></a></div>
+<div style="margin-left: 5px; height: 60px;"><a style="gap: 0px;" title="Write a review of OpenCTI by Filigran on G2" href="https://www.g2.com/products/opencti-by-filigran/reviews/start?utm_source=review-widget"><img decoding="async" class="full-width" style="max-width: 120px;" src="https://www.g2.com/products/opencti-by-filigran/widgets/stars?color=white&amp;type=reviews" alt="Review OpenCTI by Filigran on G2" /></a></div>
+</div>
+						</div>
+
+						<div class="socials">
+															<a href="https://www.linkedin.com/company/filigran/" target="_blank">
+									<img width="34" height="35" src="https://filigran.io/app/uploads/2024/02/linkedin.png" class="attachment-icon size-icon" alt="" decoding="async" />								</a>
+															<a href="https://community.filigran.io" target="_blank">
+									<img width="34" height="35" src="https://filigran.io/app/uploads/2024/02/slack.png" class="attachment-icon size-icon" alt="" decoding="async" />								</a>
+															<a href="https://twitter.com/FiligranHQ" target="_blank">
+									<img width="1023" height="1023" src="https://filigran.io/app/uploads/2024/02/x_logo_2023_white.png" class="attachment-icon size-icon" alt="" decoding="async" srcset="https://filigran.io/app/uploads/2024/02/x_logo_2023_white.png 1023w, https://filigran.io/app/uploads/2024/02/x_logo_2023_white-300x300.png 300w, https://filigran.io/app/uploads/2024/02/x_logo_2023_white-150x150.png 150w, https://filigran.io/app/uploads/2024/02/x_logo_2023_white-768x768.png 768w" sizes="(max-width: 1023px) 100vw, 1023px" />								</a>
+															<a href="https://www.youtube.com/@Filigran" target="_blank">
+									<img width="34" height="35" src="https://filigran.io/app/uploads/2024/02/youtube.png" class="attachment-icon size-icon" alt="" decoding="async" />								</a>
+													</div>
+					
+
+					</div>
+						
+					<div class="menu">
+						<ul id="menu-footer" class="menu"><li id="menu-item-981" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-981"><a>Solutions</a>
+<ul class="sub-menu">
+	<li id="menu-item-4483" class="menu-item menu-item-type-post_type menu-item-object-solution menu-item-4483"><a href="https://filigran.io/platforms/xtm-suite/">XTM Suite</a></li>
+	<li id="menu-item-4485" class="menu-item menu-item-type-post_type menu-item-object-solution menu-item-4485"><a href="https://filigran.io/platforms/opencti/">OpenCTI</a></li>
+	<li id="menu-item-4484" class="menu-item menu-item-type-post_type menu-item-object-solution menu-item-4484"><a href="https://filigran.io/platforms/openaev/">OpenAEV</a></li>
+	<li id="menu-item-5425" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5425"><a href="https://filigran.io/agentic-ai/">Agentic AI</a></li>
+	<li id="menu-item-4482" class="menu-item menu-item-type-post_type menu-item-object-solution menu-item-4482"><a href="https://filigran.io/platforms/xtm-hub/">What is XTM Hub?</a></li>
+</ul>
+</li>
+<li id="menu-item-982" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-982"><a>Offerings</a>
+<ul class="sub-menu">
+	<li id="menu-item-986" class="menu-item menu-item-type-post_type menu-item-object-offering menu-item-986"><a href="https://filigran.io/offerings/software-as-a-service/">Software as a Service</a></li>
+	<li id="menu-item-987" class="menu-item menu-item-type-post_type menu-item-object-offering menu-item-987"><a href="https://filigran.io/offerings/professional-support-packages/">Support and Services</a></li>
+	<li id="menu-item-989" class="menu-item menu-item-type-post_type menu-item-object-offering menu-item-989"><a href="https://filigran.io/offerings/opencti-enterprise-edition/">OpenCTI Enterprise Edition</a></li>
+	<li id="menu-item-5889" class="menu-item menu-item-type-post_type menu-item-object-offering menu-item-5889"><a href="https://filigran.io/offerings/openaev-enterprise-edition/">OpenAEV Enterprise Edition</a></li>
+	<li id="menu-item-3474" class="menu-item menu-item-type-post_type menu-item-object-offering menu-item-3474"><a href="https://filigran.io/offerings/filigran-academy/">Filigran Academy Training Options</a></li>
+</ul>
+</li>
+<li id="menu-item-1292" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1292"><a>Resources</a>
+<ul class="sub-menu">
+	<li id="menu-item-3588" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3588"><a target="_blank" href="https://hub.filigran.io/">XTM Hub</a></li>
+	<li id="menu-item-3482" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3482"><a href="https://academy.filigran.io/">Filigran Academy</a></li>
+	<li id="menu-item-2264" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2264"><a href="https://filigran.io/our-blog/">Filigran Blog</a></li>
+	<li id="menu-item-1513" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1513"><a href="https://filigran.io/events-webinars/">Events &amp; Webinars</a></li>
+	<li id="menu-item-4167" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4167"><a href="https://filigran.io/use-case-library/">Use Case Library</a></li>
+	<li id="menu-item-1593" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1593"><a href="https://filigran.io/content-library/">Content Library</a></li>
+	<li id="menu-item-1294" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1294"><a target="_blank" href="https://docs.opencti.io/latest/">OpenCTI Documentation</a></li>
+	<li id="menu-item-1295" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1295"><a target="_blank" href="https://docs.openbas.io/latest/">OpenAEV Documentation</a></li>
+</ul>
+</li>
+<li id="menu-item-983" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-983"><a>Company</a>
+<ul class="sub-menu">
+	<li id="menu-item-991" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-991"><a href="https://filigran.io/our-story/">Our Story</a></li>
+	<li id="menu-item-4171" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4171"><a href="https://filigran.io/leadership/">Leadership</a></li>
+	<li id="menu-item-2679" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2679"><a target="_blank" href="https://www.welcometothejungle.com/en/companies/filigran">Careers</a></li>
+	<li id="menu-item-1044" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1044"><a href="https://filigran.io/our-investors/">Our Investors</a></li>
+	<li id="menu-item-1288" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1288"><a href="https://filigran.io/newsroom/">Newsroom</a></li>
+	<li id="menu-item-1290" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1290"><a target="_blank" href="https://zeroheight.com/020822383/p/08b3df-filigran-identity">Our Brand</a></li>
+	<li id="menu-item-990" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-990"><a href="https://filigran.io/become-a-partner/">Become a Partner</a></li>
+	<li id="menu-item-3709" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3709"><a href="https://filigran.io/mssp-partners/">MSSP Partners</a></li>
+	<li id="menu-item-1287" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1287"><a href="https://filigran.io/technology-alliances/">Technology Alliances</a></li>
+	<li id="menu-item-1289" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1289"><a href="https://filigran.io/solutions-providers/">Solutions Providers</a></li>
+	<li id="menu-item-1443" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1443"><a href="https://filigran.io/marketplaces/">Marketplaces</a></li>
+</ul>
+</li>
+</ul>						
+					</div>
+				</div>
+			</div>
+			<div class="footer-secondary">
+				<div class="text">
+					<p>© 2025 Filigran. All rights reserved</p>
+				</div>
+				<div class="text">
+					<ul>
+						<li>
+							<a href="https://filigran.io/privacy-policy/">Privacy Policy</a>
+						</li>
+						<li>
+							<a href="https://filigran.io/terms-of-services/">Terms of Services</a>
+						</li>
+						<li>
+							<a href="https://filigran.io/licenses/">Licenses</a>
+						</li>
+						<li>
+							<a href="https://filigran.io/contact/">Contact</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</footer>
+</div><!-- #page -->
+
+</div><!-- #page -->
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp\/wp-*.php","\/wp\/wp-admin\/*","\/app\/uploads\/*","\/app\/*","\/app\/plugins\/*","\/app\/themes\/filigran\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<link rel="stylesheet" href="https://filigran.io/app/themes/filigran/template-parts/components/category-post/dist/style.css?v=25111612">
+<link rel="stylesheet" href="https://filigran.io/app/themes/filigran/template-parts/components/hero-container/dist/style.css?v=25111612">
+<link rel="stylesheet" href="https://filigran.io/app/themes/filigran/template-parts/components/author/dist/style.css?v=25111612">
+<link rel="stylesheet" href="https://filigran.io/app/themes/filigran/template-parts/components/social-share/dist/style.css?v=25111612">
+<link rel="stylesheet" href="https://filigran.io/app/themes/filigran/template-parts/components/card-post/dist/style.css?v=25111612">
+<link rel="stylesheet" href="https://filigran.io/app/themes/filigran/template-parts/blocks/jumbotron-newsletter/dist/style.css?v=25111612">
+<link rel="stylesheet" href="https://filigran.io/app/themes/filigran/template-parts/components/jumbotron/dist/style.css?v=25111612">
+<script id="leadin-script-loader-js-js-extra">
+var leadin_wordpress = {"userRole":"visitor","pageType":"other","leadinPluginVersion":"11.3.16"};
+</script>
+<script src="https://js-eu1.hs-scripts.com/26791207.js?integration=WordPress&amp;v=25111612" id="leadin-script-loader-js-js"></script>
+<script src="https://filigran.io/app/themes/filigran/dist/main.js?v=25111612" id="main-js"></script>
+<script src="https://filigran.io/app/themes/filigran/template-parts/singles/post/dist/script.js?v=25111612" id="single-post-script-js"></script>
+<script src="https://filigran.io/app/themes/filigran/template-parts/components/header-service/dist/script.js?v=25111612" id="components-header-service-script-js"></script>
+<script src="https://filigran.io/app/themes/filigran/template-parts/components/category-post/dist/script.js?v=25111612" id="component-category-post-script-js"></script>
+<script src="https://filigran.io/app/themes/filigran/template-parts/components/hero-container/dist/script.js?v=25111612" id="component-hero-container-script-js"></script>
+<script src="https://filigran.io/app/themes/filigran/template-parts/components/author/dist/script.js?v=25111612" id="component-author-script-js"></script>
+<script src="https://filigran.io/app/themes/filigran/template-parts/components/social-share/dist/script.js?v=25111612" id="component-social-share-script-js"></script>
+<script src="https://filigran.io/app/themes/filigran/template-parts/components/card-post/dist/script.js?v=25111612" id="component-card-post-script-js"></script>
+<script src="https://filigran.io/app/themes/filigran/template-parts/blocks/jumbotron-newsletter/dist/script.js?v=25111612" id="jumbotron-newsletter-script-js"></script>
+<script defer src="https://js-eu1.hsforms.net/forms/embed/v2.js?v=25111612" id="leadin-forms-v2-js"></script>
+<script src="https://filigran.io/app/themes/filigran/template-parts/components/jumbotron/dist/script.js?v=25111612" id="component-jumbotron-script-js"></script>
+<script src="https://filigran.io/app/themes/filigran/template-parts/components/footer/dist/script.js?v=25111612" id="components-footer-script-js"></script>
+<script>window.lazyLoadOptions=[{elements_selector:"img[data-lazy-src],.rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}},{elements_selector:".rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,}];window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://filigran.io/app/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"></script>
+</body>
+</html>
